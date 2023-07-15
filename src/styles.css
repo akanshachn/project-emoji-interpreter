@@ -1,0 +1,19 @@
+.App {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #1e3a8a;
+}
+
+input {
+  color: #1e3a8a;
+  padding: 0.5rem;
+  width: 80%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.meaningDiv {
+  margin: 1rem;
+  color: #059669;
+}
